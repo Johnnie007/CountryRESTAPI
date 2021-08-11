@@ -1,0 +1,1952 @@
+[
+    {
+    "id": "1",
+    "name": "Afghanistan",
+    "mainLanguage":"Dari",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"AFN",
+    "population": "38,928,346",
+    "capital": "Kabul"
+},
+{
+    "id": "2",
+    "name": "Albania",
+    "mainLanguage":"Albanian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"ALL",
+    "population": "2,877,797",
+    "capital": "Tirana"
+},
+{
+    "id": "3",
+    "name": "Algeria",
+    "mainLanguage":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"DZD",
+    "population": "43,851,044",
+    "capital": "Algiers"
+},
+{
+    "id": "4",
+    "name": "Andorra",
+    "mainLanguage":"Catalan",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"EUR",
+    "population": "77,265",
+    "capital": "Andorra la Vella"
+},
+{
+    "id": "5",
+    "name": "Angola",
+    "mainLanguage":"Portuguese",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"AOA",
+    "population": "33,866,272",
+    "capital": "Luanda"
+},
+{
+    "id": "6",
+    "name": "Antigua and Barbuda",
+    "mainLanguage":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"XCD",
+    "population": "33,866,272",
+    "capital": "Saint Johns's"
+},
+{
+    "id": "7",
+    "name": "Argentina",
+    "language":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"ARS",
+    "population": "45,195,774",
+    "capital": "Buenos Aires"
+},
+{
+    "id": "8",
+    "name": "Armenia",
+    "mainLanguage":"Armenian",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"DRAM",
+    "population": "2,963,243",
+    "capital": "Yerevan"
+},
+{
+    "id": "9",
+    "name": "Australia",
+    "mainLanguage":"English",
+    "hemisphere":"South East",
+    "continent":"Australia",
+    "currency":"AUD",
+    "population": "25,499,884",
+    "capital": "Canberra"
+},
+{
+    "id": "10",
+    "name": "Austria",
+    "mainLanguage":"German",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "9,006,398",
+    "capital": "Vienna"
+},
+{
+    "id": "11",
+    "name": "Azerbaijan",
+    "mainLanguage":"Azerbaijani",
+    "hemisphere":"North East",
+    "continent":"Europe Asia",
+    "currency":"AZN",
+    "population": "10,139,177",
+    "capital": "Baku"
+},
+{
+    "id": "12",
+    "name": "Bahamas",
+    "mainLanguage":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"BSD",
+    "population": "393,244",
+    "capital": "Nassau"
+},
+{
+    "id": "13",
+    "name": "Bahrain",
+    "mainLanguage":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"BD",
+    "population": "1,701,575",
+    "capital": "Manama"
+},
+{
+    "id": "14",
+    "name": "Bangladesh",
+    "mainLanguage":"Bengali",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"TK",
+    "population": "164,689,383",
+    "capital": "Dhaka"
+},
+{
+    "id": "15",
+    "name": "Barbados",
+    "mainLanguage":"English",
+    "hemisphere":"Nort West",
+    "continent":"North America",
+    "currency":"BBD",
+    "population": "287,375",
+    "capital": "Bridgetown"
+},
+{
+    "id": "16",
+    "name": "Belarus",
+    "mainLanguage":"Belarusian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"BYR",
+    "population": "9,449,323",
+    "capital": "Minsk"
+},
+{
+    "id": "17",
+    "name": "Belgium",
+    "mainLanguage":"Dutch",
+    "hemisphere":"Nort East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "11,589,623",
+    "capital": "Brussels"
+},
+{
+    "id": "18",
+    "name": "Belize",
+    "language":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"BZD",
+    "population": "397,628",
+    "capital": "Belmopan"
+},
+{
+    "id": "19",
+    "name": "Benin",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XOF",
+    "population": "12,123,200",
+    "capital": "Porto-Novo"
+},
+{
+    "id": "20",
+    "name": "Bhutan",
+    "mainLanguage":"Dzongkha",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"BTN",
+    "population": "771,608",
+    "capital": "Thimphu"
+},
+{
+    "id": "21",
+    "name": "Bolivia",
+    "language":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"BOB",
+    "population": "11,673,021",
+    "capital": "La Paz"
+},
+{
+    "id": "22",
+    "name": "Bosnia and Herzegovina",
+    "mainLanguage":"Bosian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"BAM",
+    "population": "3,280,819",
+    "capital": "Sarajevo"
+},
+{
+    "id": "23",
+    "name": "Botswana",
+    "mainLanguage":"English",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"BWP",
+    "population": "2,351,627",
+    "capital": "Gaborone"
+},
+{
+    "id": "24",
+    "name": "Brazil",
+    "mainLanguage":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"BRL",
+    "population": "212,559,417",
+    "capital": "Brasilla"
+},
+{
+    "id": "25",
+    "name": "Brunei",
+    "language":"Malay",
+    "hemisphere":"North West",
+    "continent":"Asia",
+    "currency":"BND",
+    "population": "437,479",
+    "capital": "Bandar Seri Begawan"
+},
+{
+    "id": "26",
+    "name": "Bulgaria",
+    "mainLanguage":"Bulgarian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"BGN",
+    "population": "6,948,445",
+    "capital": "Sofia"
+},
+{
+    "id": "27",
+    "name": "Burkina Faso",
+    "mainLanguage":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XOF",
+    "population": "20,903,273",
+    "capital": "Ouagadougou"
+},
+{
+    "id": "28",
+    "name": "Burndi",
+    "mainLanguage":"French",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"BIF",
+    "population": "11,890,784",
+    "capital": "Gitega"
+},
+{
+    "id": "29",
+    "name": "Cote d'Lovire",
+    "mainLanguage":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XOF",
+    "population": "26,378,274",
+    "capital": "Yamoussoukro"
+},
+{
+    "id": "30",
+    "name": "Cabo Verde",
+    "mainLanguage":"Portuguese",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"CVE",
+    "population": "555,987",
+    "capital": "Praia"
+},
+{
+    "id": "31",
+    "name": "Cambodia",
+    "mainLanguage":"Khmer",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"KHR",
+    "population": "16,718,965",
+    "capital": "Phnom Penh"
+},
+{
+    "id": "32",
+    "name": "Cameroon",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XAF",
+    "population": "26,545,863",
+    "capital": "Yaounde"
+},
+{
+    "id": "33",
+    "name": "Canada",
+    "mainLanguage":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"CAD",
+    "population": "37,742,154",
+    "capital": "Ottawa"
+},
+{
+    "id": "34",
+    "name": "Central African Republic",
+    "mainLanguage":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XAF",
+    "population": "4,829,767",
+    "capital": "Bangui"
+},
+{
+    "id": "35",
+    "name": "Chad",
+    "mainLanguage":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XAF",
+    "population": "16,425,864",
+    "capital": "N'Djamena"
+},
+{
+    "id": "36",
+    "name": "Chile",
+    "mainLanguage":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"CLP",
+    "population": "19,116,201",
+    "capital": "Santiago"
+},
+{
+    "id": "37",
+    "name": "China",
+    "mainLanguage":"Mandarin",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"RMB",
+    "population": "1,439,323,776",
+    "capital": "Beijing"
+},
+{
+    "id": "38",
+    "name": "Colombia",
+    "mainLanguage":"Spanish",
+    "hemisphere":"South West",
+    "continent":"Sout America",
+    "currency":"COP",
+    "population": "50,882,891",
+    "capital": "Bogota"
+},
+{
+    "id": "39",
+    "name": "Comoros",
+    "mainLanguage":"Comorian",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"KMF",
+    "population": "869,601",
+    "capital": "Moroni"
+},
+{
+    "id": "40",
+    "name": "Congo",
+    "mainLanguage":"French",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"CDF",
+    "population": "5,518,087",
+    "capital": "Kinshasa"
+},
+{
+    "id": "41",
+    "name": "Costa Rica",
+    "mainLanguage":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"CRC",
+    "population": "5,094,118",
+    "capital": "San Jose"
+},
+{
+    "id": "42",
+    "name": "Croatia",
+    "mainLanguage":"Croatian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"HRK",
+    "population": "4,105,267",
+    "capital": "Zegreb"
+},
+{
+    "id": "43",
+    "name": "Cuba",
+    "mainLanguage":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"CUP",
+    "population": "11,326,616",
+    "capital": "Havana"
+},
+{
+    "id": "44",
+    "name": "Cyprus",
+    "mainLanguage":"Greek",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"EURO",
+    "population": "1,207,359",
+    "capital": "Nicosia"
+},
+{
+    "id": "45",
+    "name": "Czechia (Czech Republic)",
+    "mainLanguage":"Czech",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"CZK",
+    "population": "10,708,981",
+    "capital": "Prague"
+},
+{
+    "id": "46",
+    "name": "Democratic Republic of Congo",
+    "mainLanguage":"French",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"CDF",
+    "population": "89,561,403",
+    "capital": "Kinshasa"
+},
+{
+    "id": "47",
+    "name": "Denmark",
+    "mainLanguage":"Danish",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"DKK",
+    "population": "5,792,202",
+    "capital": "Copenhagen"
+},
+{
+    "id": "48",
+    "name": "Djibouti",
+    "mainLanguage":"Somali",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"DJF",
+    "population": "988,00",
+    "capital": "Djibouti city"
+},
+{
+    "id": "49",
+    "name": "Dominica",
+    "mainLanguage":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"DOP",
+    "population": "71,986",
+    "capital": "Roseau"
+},
+{
+    "id": "50",
+    "name": "Dominica Republic",
+    "mainLanguage":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"DOP",
+    "population": "10,847,910",
+    "capital": "Santo Domingo"
+},
+{
+    "id": "51",
+    "name": "Ecuador",
+    "mainLanguage":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"USD",
+    "population": "17,643,054",
+    "capital": "Quito"
+},
+{
+    "id": "52",
+    "name": "Egypt",
+    "language":"Arabic",
+    "hemisphere":"North West",
+    "continent":"Africa",
+    "currency":"EGP",
+    "population": "102,334,404",
+    "capital": "Cairo"
+},
+{
+    "id": "53",
+    "name": "El Salvador",
+    "mainLanguage":"Spanish",
+    "hemisphere":"South West",
+    "continent":"North America",
+    "currency":"SVC",
+    "population": "6,486,205",
+    "capital": "San Salvador"
+},
+{
+    "id": "54",
+    "name": "Equatorial Guinea",
+    "mainLanguage":"Spanish",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"GQE",
+    "population": "1,402,985",
+    "capital": "Malabo"
+},
+{
+    "id": "55",
+    "name": "Eritrea",
+    "language":"Tigrinya",
+    "hemisphere":"North East",
+    "continent":"East Africa",
+    "currency":"NKF",
+    "population": "3,546,421",
+    "capital": "Asmara"
+},
+{
+    "id": "56",
+    "name": "Eswatini",
+    "mainLanguage":"Swazi",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"SZL",
+    "population": "1,160,164",
+    "capital": "Mbabane"
+},
+{
+    "id": "57",
+    "name": "Estonia",
+    "language":"Estonian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"EURO",
+    "population": "1,326,535",
+    "capital": "Tallinn"
+},
+{
+    "id": "58",
+    "name": "Ethiopia",
+    "mainLanguage":"Amharic",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"ETB",
+    "population": "114,963,588",
+    "capital": "Addis Ababa"
+},
+{
+    "id": "59",
+    "name": "Fiji",
+    "mainLanguage":"Fijan",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"FJD",
+    "population": "896,445",
+    "capital": "Suva"
+},
+{
+    "id": "60",
+    "name": "Finland",
+    "mainLanguage":"Finnish",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "5,540,720",
+    "capital": "Helsinki"
+},
+{
+    "id": "61",
+    "name": "France",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "65,273,511",
+    "capital": "Paris"
+},
+{
+    "id": "62",
+    "name": "Gabon",
+    "language":"French",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"XAF",
+    "population": "2,225,734",
+    "capital": "Libreville"
+},
+{
+    "id": "63",
+    "name": "Gambia",
+    "language":"English",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"",
+    "population": "2,416,668",
+    "capital": "Banjul"
+},
+{
+    "id": "64",
+    "name": "Georgia",
+    "language":"Georgian",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"GEL",
+    "population": "3,989,167", 
+    "capital": "Tbilsi"
+},
+{
+    "id": "65",
+    "name": "Germany",
+    "language":"German",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "83,783,942",
+    "capital": "Berlin"
+},
+{
+    "id": "66",
+    "name": "Ghana",
+    "language":"English",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"GHC",
+    "population": "31,072,940",
+    "capital": "Accra"
+},
+{
+    "id": "67",
+    "name": "Greece",
+    "language":"Greek",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "10,423,054",
+    "capital": "Athens"
+},
+{
+    "id": "68",
+    "name": "Grenada",
+    "language":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"XCD",
+    "population": "112,523",
+    "capital": "Saint George's"
+},
+{
+    "id": "69",
+    "name": "Guatemala",
+    "language":"Spanish",
+    "hemisphere":"North East",
+    "continent":"North America",
+    "currency":"GTQ",
+    "population": "17,915,568",
+    "capital": "Guatemala City"
+},
+{
+    "id": "70",
+    "name": "Guinea",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"GNF",
+    "population": "13,132,795",
+    "capital": "Conakry"
+},
+{
+    "id": "71",
+    "name": "Guinea-Bissau",
+    "language":"Portuguese",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"GWP",
+    "population": "1,968,001",
+    "capital": "Bissau"
+},
+{
+    "id": "72",
+    "name": "Guyana",
+    "language":"Englis",
+    "hemisphere":"North West",
+    "continent":"South America",
+    "currency":"GYD",
+    "population": "786,552",
+    "capital": "Georgetown"
+},
+{
+    "id": "73",
+    "name": "Haiti",
+    "language":"Creole",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"HTG",
+    "population": "11,402,528",
+    "capital": "Port-au-Prince"
+},
+{
+    "id": "74",
+    "name": "Holy See",
+    "language":"Italian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "801",
+    "capital": "Vatican City"
+},
+{
+    "id": "75",
+    "name": "Honduras",
+    "language":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"HNL",
+    "population": "9,904,607",
+    "capital": "Tegucigalpa"
+},
+{
+    "id": "76",
+    "name": "Hungary",
+    "language":"Hungarian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"HUF",
+    "population": "9,660,351",
+    "capital": "Budapest"
+},
+{
+    "id": "77",
+    "name": "Iceland",
+    "language":"Icelandic",
+    "hemisphere":"North West",
+    "continent":"Europe",
+    "currency":"ISK",
+    "population": "341,243",
+    "capital": "Reykjavik"
+},
+{
+    "id": "78",
+    "name": "India",
+    "language":"Hindi",
+    "hemisphere":"North West",
+    "continent":"Asia",
+    "currency":"INR",
+    "population": "1,380,004,385",
+    "capital": "New Delhi"
+},
+{
+    "id": "79",
+    "name": "Indonesia",
+    "language":"Indonesian",
+    "hemisphere":"South East",
+    "continent":"Asia",
+    "currency":"IDR",
+    "population": "273,523,615",
+    "capital": "Jakarta"
+},
+{
+    "id": "80",
+    "name": "Iran",
+    "language":"Persian",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"IRR",
+    "population": "83,992,949",
+    "capital": "Tehran"
+},
+{
+    "id": "81",
+    "name": "Iraq",
+    "language":"Kurdish",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"IQD",
+    "population": "40,222,493",
+    "capital": "Baghdad"
+},
+{
+    "id": "82",
+    "name": "Ireland",
+    "language":"Irish",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "4,937,786",
+    "capital": "Dublin"
+},
+{
+    "id": "83",
+    "name": "Israel",
+    "language":"Hebrew",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"ILS",
+    "population": "8,655,535",
+    "capital": "Jerusalem"
+},
+{
+    "id": "84",
+    "name": "Italy",
+    "language":"Italian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "60,461,826",
+    "capital": "Rome"
+},
+{
+    "id": "85",
+    "name": "Jamaica",
+    "language":"Patois",
+    "hemisphere":"North East",
+    "continent":"North America",
+    "currency":"JMD",
+    "population": "2,961,167",
+    "capital": "Kingston"
+},
+{
+    "id": "86",
+    "name": "Japan",
+    "language":"Japanese",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"JPY",
+    "population": "126,476,461",
+    "capital": "Tokyo"
+},
+{
+    "id": "87",
+    "name": "Jordan",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"JOD",
+    "population": "10,203,134",
+    "capital": "Amman"
+},
+{
+    "id": "88",
+    "name": "Kazakhstan",
+    "language":"Kazakh",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"KZT",
+    "population": "18,776,707",
+    "capital": "Nur-Sultan"
+},
+{
+    "id": "89",
+    "name": "Kenya",
+    "language":"Swahili",
+    "hemisphere":"East",
+    "continent":"Africa",
+    "currency":"KES",
+    "population": "53,771,296",
+    "capital": "Nairobi"
+},
+{
+    "id": "90",
+    "name": "Kiribati",
+    "language":"Gilbertese",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"KID",
+    "population": "119,449",
+    "capital": "Tarawa"
+},
+{
+    "id": "91",
+    "name": "Kuwait",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"KWD",
+    "population": "4,270,571",
+    "capital": "Kuwait City"
+},
+{
+    "id": "92",
+    "name": "Kyrgyzstan",
+    "language":"Kyrgyz",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"KGS",
+    "population": "6,524,195",
+    "capital": "Bishkek"
+},
+{
+    "id": "93",
+    "name": "Laos",
+    "language":"Lao",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"LAK",
+    "population": "7,275,560",
+    "capital": "Vientiane"
+},
+{
+    "id": "94",
+    "name": "Latvia",
+    "language":"Latvian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "1,886,198",
+    "capital": "Riga"
+},
+{
+    "id": "95",
+    "name": "Lebanon",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"LBP",
+    "population": "6,825,445",
+    "capital": "Beirut"
+},
+{
+    "id": "96",
+    "name": "Lesotho",
+    "language":"Southern Sotho",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"LSL",
+    "population": "2,142,249",
+    "capital": "Maseru"
+},
+{
+    "id": "97",
+    "name": "Liberia",
+    "language":"English",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"LRD",
+    "population": "5,057,681",
+    "capital": "Monrovia"
+},
+{
+    "id": "98",
+    "name": "Libya",
+    "language":"",
+    "hemisphere":"",
+    "continent":"",
+    "currency":"",
+    "population": "6,871,292",
+    "capital": ""
+},
+{
+    "id": "99",
+    "name": "Liechtenstein",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"LYD",
+    "population": "38,128",
+    "capital": "Tripoli"
+},
+{
+    "id": "100",
+    "name": "Lithuania",
+    "language":"Lithuanian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"LTL",
+    "population": "2,722,289",
+    "capital": "Vilnius"
+},
+{
+    "id": "101",
+    "name": "Luxembourg",
+    "language":"Luxembourgish",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "625,978",
+    "capital": "Luxembourg"
+},
+{
+    "id": "102",
+    "name": "Madagascar",
+    "language":"Malagasy",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"MGA",
+    "population": "27,691,018",
+    "capital": "Antananarivo"
+},
+{
+    "id": "103",
+    "name": "Malawi",
+    "language":"Chichewa",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"MWK",
+    "population": "19,129,952",
+    "capital": "Lilongwe"
+},
+{
+    "id": "104",
+    "name": "Malaysia",
+    "language":"Malay",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"RM",
+    "population": "32,365,999",
+    "capital": "Kuala Lumpur"
+},
+{
+    "id": "105",
+    "name": "Maldives",
+    "language":"Dhivehi",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"MYR",
+    "population": "540,544",
+    "capital": "Male"
+},
+{
+    "id": "106",
+    "name": "Mali",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"CFA",
+    "population": "20,250,833",
+    "capital": "Bamako"
+},
+{
+    "id": "107",
+    "name": "Malta",
+    "language":"Maltese",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"EURO",
+    "population": "441,543",
+    "capital": ""
+},
+{
+    "id": "108",
+    "name": "Marshall Islands",
+    "language":"Marshallese",
+    "hemisphere":"North East",
+    "continent":"Oceania",
+    "currency":"USD",
+    "population": "59,190",
+    "capital": "Majuro"
+},
+{
+    "id": "109",
+    "name": "Mauritania",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"Ouguiya",
+    "population": "4,649,658",
+    "capital": "Nouakchott"
+},
+{
+    "id": "110",
+    "name": "Mauritius",
+    "language":"Mauritian Creole",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"MUR",
+    "population": "1,271,768",
+    "capital": "Port Louis"
+},
+{
+    "id": "111",
+    "name": "Mexico",
+    "language":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"MXN",
+    "population": "128,932,753",
+    "capital": "Mexico City"
+},
+{
+    "id": "112",
+    "name": "Micronesia",
+    "language":"Marshallese",
+    "hemisphere":"North East",
+    "continent":"Oceania",
+    "currency":"USD",
+    "population": "548,914",
+    "capital": "Palikir"
+},
+{
+    "id": "113",
+    "name": "Moldova",
+    "language":"Romanian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"MDL",
+    "population": "4,033,963",
+    "capital": "Chisinau"
+},
+{
+    "id": "114",
+    "name": "Monaco",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "39,242",
+    "capital": "Monte Carlo"
+},
+{
+    "id": "115",
+    "name": "Mongolia",
+    "language":"Khalkha",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"MNT",
+    "population": "3,278,290",
+    "capital": "Ulaanbaatar"
+},
+{
+    "id": "116",
+    "name": "Montenegro",
+    "language":"Montenegrin",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "628,066",
+    "capital": "Podgorica"
+},
+{
+    "id": "117",
+    "name": "Morocco",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"MAD",
+    "population": "36,910,560",
+    "capital": "Rabat"
+},
+{
+    "id": "118",
+    "name": "Mozambique",
+    "language":"Portuguese",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"MZN",
+    "population": "31,255,435",
+    "capital": "Maputo"
+},
+{
+    "id": "119",
+    "name": "Myanmar",
+    "language":"Burmese",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"MMK",
+    "population": "54,409,800",
+    "capital": "Naypyitaw"
+},
+{
+    "id": "120",
+    "name": "Namibia",
+    "language":"Oshiwambo",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"NAD",
+    "population": "2,540,905",
+    "capital": "Windhoek"
+},
+{
+    "id": "121",
+    "name": "Nauru",
+    "language":"Nauruan",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"AUD",
+    "population": "10,824",
+    "capital": "Yaren"
+},
+{
+    "id": "122",
+    "name": "Nepal",
+    "language":"Neppali",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"NPR",
+    "population": "29,136,808",
+    "capital": "Kathmandu"
+},
+{
+    "id": "123",
+    "name": "Netherlands",
+    "language":"Dutch",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "17,134,872",
+    "capital": "Amsterdam"
+},
+{
+    "id": "124",
+    "name": "New Zealand",
+    "language":"English",
+    "hemisphere":"North East",
+    "continent":"Oceania",
+    "currency":"NZD",
+    "population": "4,822,233",
+    "capital": "Wellington"
+},
+{
+    "id": "125",
+    "name": "Nicaragua",
+    "language":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"NIO",
+    "population": "6,624,554",
+    "capital": "Managua"
+},
+{
+    "id": "126",
+    "name": "Niger",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XOF",
+    "population": "24,206,644",
+    "capital": "Niamey"
+},
+{
+    "id": "127",
+    "name": "Nigeria",
+    "language":"Hausa",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"NGN",
+    "population": "206,139,589",
+    "capital": "Abuja"
+},
+{
+    "id": "128",
+    "name": "North Korea",
+    "language":"Korean",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"KPW",
+    "population": "25,778,816",
+    "capital": "Pyongyang"
+},
+{
+    "id": "129",
+    "name": "North Macedonia",
+    "language":"Macedonian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"MKD",
+    "population": "2,083,374",
+    "capital": "Skopje"
+},
+{
+    "id": "130",
+    "name": "Norway",
+    "language":"Norwegian",
+    "hemisphere":"North East",
+    "continent":"Euorpe",
+    "currency":"NOK",
+    "population": "5,106,626",
+    "capital": "Oslo"
+},
+{
+    "id": "131",
+    "name": "Oman",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"OMR",
+    "population": "5,106,626",
+    "capital": "Muscat"
+},
+{
+    "id": "132",
+    "name": "Pakistan",
+    "language":"Urdu",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"PKR",
+    "population": "220,892,340",
+    "capital": "Islamabad"
+},
+{
+    "id": "133",
+    "name": "Palau",
+    "language":"Palauan",
+    "hemisphere":"North East",
+    "continent":"Oceania",
+    "currency":"USD",
+    "population": "18,094",
+    "capital": "Ngerulmud"
+},
+{
+    "id": "134",
+    "name": "Palestine State",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"ISL",
+    "population": "5,101,414",
+    "capital": "Jerusalem"
+},
+{
+    "id": "135",
+    "name": "Panama",
+    "language":"Spanish",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"PAB",
+    "population": "4,314,767",
+    "capital": "Panama City"
+},
+{
+    "id": "136",
+    "name": "Papua New Guinea",
+    "language":"Tok Pisin",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"PGK",
+    "population": "8,947,024",
+    "capital": "Port Moresby"
+},
+{
+    "id": "137",
+    "name": "Paraguay",
+    "language":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"PYG",
+    "population": "7,132,538",
+    "capital": "Asuncion"
+},
+{
+    "id": "138",
+    "name": "Peru",
+    "language":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"PEN",
+    "population": "32,971,854",
+    "capital": "Lima"
+},
+{
+    "id": "139",
+    "name": "Philippines",
+    "language":"Filipino",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"PHP",
+    "population": "109,581,078",
+    "capital": "Manila"
+},
+{
+    "id": "140",
+    "name": "Poland",
+    "language":"Polish",
+    "hemisphere":"North Eat",
+    "continent":"Europe",
+    "currency":"PLN",
+    "population": "37,846,611",
+    "capital": "Warsaw"
+},
+{
+    "id": "141",
+    "name": "Portugal",
+    "language":"Portugues",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "10,196,709",
+    "capital": "Lisbon"
+},
+{
+    "id": "142",
+    "name": "Qatar",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"QAR",
+    "population": "2,881,053",
+    "capital": "Doha"
+},
+{
+    "id": "143",
+    "name": "Romania",
+    "language":"Romanian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"RON",
+    "population": "19,237,691",
+    "capital": "Bucharest"
+},
+{
+    "id": "144",
+    "name": "Russia",
+    "language":"Russian",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"RUB",
+    "population": "145,934,462",
+    "capital": "Moscow"
+},
+{
+    "id": "145",
+    "name": "Rwanda",
+    "language":"Kinyarwanda",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"RWF",
+    "population": "12,952,218",
+    "capital": "Kigali"
+},
+{
+    "id": "146",
+    "name": "Saint Kitts and Nevis",
+    "language":"Creole",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"XCD",
+    "population": "53,199",
+    "capital": "Basseterre"
+},
+{
+    "id": "147",
+    "name": "Saint Lucia",
+    "language":"Creole",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"XCD",
+    "population": "183,627",
+    "capital": "Castries"
+},
+{
+    "id": "148",
+    "name": "Saint Vincent and the Grenadines",
+    "language":"Creole",
+    "hemisphere":"North East",
+    "continent":"North America",
+    "currency":"XCD",
+    "population": "110,940",
+    "capital": "Kingstown"
+},
+{
+    "id": "149",
+    "name": "Samoa",
+    "language":"Samoan",
+    "hemisphere":"South West",
+    "continent":"Oceania",
+    "currency":"WST",
+    "population": "198,414",
+    "capital": "Apia"
+},
+{
+    "id": "150",
+    "name": "San Marino",
+    "language":"Italian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"EURO",
+    "population": "33,931",
+    "capital": "San Marino"
+},
+{
+    "id": "151",
+    "name": "Sao Tome and Principe",
+    "language":"Portuguese",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"STN",
+    "population": "219.159",
+    "capital": "Sao Tome"
+},
+{
+    "id": "152",
+    "name": "Saudi Arabia",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"SAR",
+    "population": "34,813,871",
+    "capital": "Riyadh"
+},
+{
+    "id": "153",
+    "name": "Senegal",
+    "language":"Wolof",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"XOF",
+    "population": "16,743,927",
+    "capital": "Dakar"
+},
+{
+    "id": "154",
+    "name": "Serbia",
+    "language":"Serbian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"RSD",
+    "population": "98,347",
+    "capital": "Belgrade"
+},
+{
+    "id": "155",
+    "name": "Seychelles",
+    "language":"Creole",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"SCR",
+    "population": "98,347",
+    "capital": "Victoria"
+},
+{
+    "id": "156",
+    "name": "Sierra Leone",
+    "language":"Krio",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"SLL",
+    "population": "7,976,983",
+    "capital": "Freetown"
+},
+{
+    "id": "157",
+    "name": "Singapore",
+    "language":"Malay",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"",
+    "population": "5,850,342",
+    "capital": "Republic of Singapore"
+},
+{
+    "id": "158",
+    "name": "Slovakia",
+    "language":"Slovak",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Europe",
+    "population": "5,459,642",
+    "capital": "Bratislava"
+},
+{
+    "id": "159",
+    "name": "Slovenia",
+    "language":"Slovenian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"EURO",
+    "population": "2,078,938",
+    "capital": "Ljubljana"
+},
+{
+    "id": "160",
+    "name": "Solomon Islands",
+    "language":"Pijin",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"SBD",
+    "population": "686,884",
+    "capital": "Honiara"
+},
+{
+    "id": "161",
+    "name": "Somalia",
+    "language":"Somali",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"SOS",
+    "population": "15,893,222",
+    "capital": "Mogadishu"
+},
+{
+    "id": "162",
+    "name": "South Africa",
+    "language":"Zulu",
+    "hemisphere":"South East",
+    "continent":"South Africa",
+    "currency":"ZAR",
+    "population": "59,308,690",
+    "capital": "Cape Town"
+},
+{
+    "id": "163",
+    "name": "South Korea",
+    "language":"Korean",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"KRW",
+    "population": "51,317,216",
+    "capital": "Seoul"
+},
+{
+    "id": "164",
+    "name": "South Sudan",
+    "language":"Dinka",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"SSP",
+    "population": "11,193,725",
+    "capital": "Juba"
+},
+{
+    "id": "165",
+    "name": "Spain",
+    "language":"Spanish",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"Euro",
+    "population": "46,754,778",
+    "capital": "Madrid"
+},
+{
+    "id": "166",
+    "name": "Sri Lanka",
+    "language":"Sinhala",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"LKR",
+    "population": "21,413,249",
+    "capital": "Sri Jayawardenepura"
+},
+{
+    "id": "167",
+    "name": "Sudan",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"SDG",
+    "population": "43,849,260",
+    "capital": "Khartoum"
+},
+{
+    "id": "168",
+    "name": "Suriname",
+    "language":"Dutch",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"SRD",
+    "population": "586,632",
+    "capital": "Paramaribo"
+},
+{
+    "id": "169",
+    "name": "Sweden",
+    "language":"Swedish",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"SEK",
+    "population": "10,099,265",
+    "capital": "Stockholm"
+},
+{
+    "id": "170",
+    "name": "Switzerland",
+    "language":"German",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"CHF",
+    "population": "8,654,622",
+    "capital": "Bern"
+},
+
+{
+    "id": "171",
+    "name": "Syria",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"SYP",
+    "population": "17,500,658",
+    "capital": "Damascus"
+},
+{
+    "id": "172",
+    "name": "Tajikistan",
+    "language":"Tajiki",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"TJS",
+    "population": "9,537,645",
+    "capital": "Dushanbe"
+},
+{
+    "id": "173",
+    "name": "Tanzania",
+    "language":"Swahili",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"TZS",
+    "population": "59,734,218",
+    "capital": "Dodoma"
+},
+{
+    "id": "174",
+    "name": "Thailand",
+    "language":"Thai",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"THB",
+    "population": "69,799,978",
+    "capital": "Bangkok"
+},
+{
+    "id": "175",
+    "name": "Timor-Leste",
+    "language":"Tetum",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"USD",
+    "population": "1,318,445",
+    "capital": "Dili"
+},
+{
+    "id": "176",
+    "name": "Togo",
+    "language":"French",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"CFA",
+    "population": "8,278,724",
+    "capital": "Lome"
+},
+{
+    "id": "177",
+    "name": "Tonga",
+    "language":"Tongan",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"TOP",
+    "population": "105,695",
+    "capital": "Nuku'alofa"
+},
+{
+    "id": "178",
+    "name": "Trinidad and Tobago",
+    "language":"Patois",
+    "hemisphere":"North East",
+    "continent":"South America",
+    "currency":"TTD",
+    "population": "1,399,488",
+    "capital": "Port of Spain"
+},
+{
+    "id": "179",
+    "name": "Tunisia",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"TND",
+    "population": "11,818,619",
+    "capital": "Tunis"
+},
+{
+    "id": "180",
+    "name": "Turkey",
+    "language":"Turkish",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"TRY",
+    "population": "84,339,067",
+    "capital": "Ankara"
+},
+{
+    "id": "181",
+    "name": "Turkmenistan",
+    "language":"Turkmen",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"TMM",
+    "population": "6,031,200",
+    "capital": "Ashgabat"
+},
+{
+    "id": "182",
+    "name": "Tuvalu",
+    "language":"Tuvaluan",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"TVD",
+    "population": "11,792",
+    "capital": "Funafuti"
+},
+{
+    "id": "183",
+    "name": "Uganda",
+    "language":"Swahili",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"UGX",
+    "population": "45,741,007",
+    "capital": "Kampala"
+},
+{
+    "id": "184",
+    "name": "Ukraine",
+    "language":"Ukrainian",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"UAH",
+    "population": "43,733,762",
+    "capital": "Kyiv"
+},
+{
+    "id": "185",
+    "name": "United Arab Emirates",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"UAE",
+    "population": "9,890,402",
+    "capital": "Abu Dhabi"
+},
+{
+    "id": "186",
+    "name": "United Kingdom",
+    "language":"English",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"GBP",
+    "population": "67,886,011",
+    "capital": "London"
+},
+{
+    "id": "187",
+    "name": "United States of America",
+    "language":"English",
+    "hemisphere":"North West",
+    "continent":"North America",
+    "currency":"USD",
+    "population": "331,002,651",
+    "capital": "Washington D.C."
+},
+{
+    "id": "188",
+    "name": "Uruguay",
+    "language":"Spanish",
+    "hemisphere":"South West",
+    "continent":"South America",
+    "currency":"UYU",
+    "population": "3,473,730",
+    "capital": "Montevideo"
+},
+{
+    "id": "189",
+    "name": "Uzbekistan",
+    "language":"Uzbek",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"UZS",
+    "population": "33,469,203",
+    "capital": "Tashkent"
+},
+{
+    "id": "190",
+    "name": "Vanuatu",
+    "language":"Bislama",
+    "hemisphere":"South East",
+    "continent":"Oceania",
+    "currency":"VUV",
+    "population": "307,145",
+    "capital": "Port Vila"
+},
+{
+    "id": "191",
+    "name": "Venezuela",
+    "language":"Spanish",
+    "hemisphere":"North West",
+    "continent":"South America",
+    "currency":"VES",
+    "population": "28,435,940",
+    "capital": "Caracas"
+},
+{
+    "id": "192",
+    "name": "Vietnam",
+    "language":"Vietnam",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"VND",
+    "population": "97,338,579",
+    "capital": "Hanoi"
+},
+{
+    "id": "193",
+    "name": "Yemen",
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Asia",
+    "currency":"YER",
+    "population": "29,825,964",
+    "capital": "Sana'a"
+},
+{
+    "id": "194",
+    "name": "Zambia",
+    "language":"Nyanja",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"ZMK",
+    "population": "18,383,955",
+    "capital": "Lusaka"
+},
+{
+    "id": "195",
+    "name": "Zimbabwe",
+    "language":"Shona",
+    "hemisphere":"South East",
+    "continent":"Africa",
+    "currency":"ZWD",
+    "population": "14,862,924",
+    "capital": "Harare"
+}
+]
