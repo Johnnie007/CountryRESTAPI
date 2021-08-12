@@ -29,6 +29,3 @@ app.get('/world/:country',(req, res) =>{
     console.log(country)
     res.send(country)
 })
-
-
-//function
