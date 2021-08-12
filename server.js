@@ -22,18 +22,13 @@ app.route('/world',)
 
 //app.route('/:country')
 //TODO:
+// Update route to uppercase or lower case.
 //Write function to pull up country
 app.get('/world/:country',(req, res) =>{
-    console.log(req.params)
-    res.send(data)
-    let country = data
+    const country = data.find( ({name}) => name === req.params.country)
     console.log(country)
-    res.send(country);
+    res.send(country)
 })
 
 
 //function
-function getCountry(){
-    const countryData = fs.readFileSync(data);
-    return countryData = JSON.parse(countryData);
-}
