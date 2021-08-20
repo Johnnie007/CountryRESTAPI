@@ -22,14 +22,22 @@ app.route('/world',)
 
 //app.route('/:country')
 //TODO:
-//Write function to pull up country
-app.get('/world/:country',(req, res) =>{
-    console.log(req.params)
-    res.send(data)
-    let country = data
-    console.log(country)
-    res.send(country);
-})
+//figure out how to update data with spaces
+app.get('/world/:info',(req, res) =>{
+    console.log(data);
+    const country = data.filter(country => req.params.info=== country.name || req.params.info === country.currency || req.params.info === country.language || req.params.info === country.continent )
+    res.send(country)
+});
+
+
+// app.get('/world/:currency',(req, res) =>{
+//     console.log(req.params.currency);
+//     const currency = data.find(currency => req.params.currency === currency.currency)
+//     console.log(currency)
+//     res.send(currency)
+// });
+
+
 
 
 //function
