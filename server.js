@@ -6,30 +6,35 @@ const fs = require('fs');
 app.use(cors());
 app.use(express.json());
 
+
+//Server
 app.listen(7000,() => {
     console.log(`server is Listening at port ${7000}`)
 });
 
+//Welcome Route
 app.get('/', (req, res) => {
     res.send("Welcome to the Country API! Created by: Johnnie Hicks.")
 });
-
+// route for all the countries info
 app.route('/world',)
 .get((req, res) => {
     res.send(data)
 })
 
-console.log(data[108].name.replace(' ', ''))
-
 //TODO:
-//figure out how to update data with spaces
+//update status codes
 app.get('/world/:info',(req, res) =>{
-    
+
+    // storing the params in to a variable.
+    let search = req.params.info.toLowerCase();
+    // statement for the different abbrevations of america
+    if(search === 'usa' || search === 'us' || search === 'america'){
+        res.send(data[187])
+    }
+    //filter the data
     const country = data.filter( country => { 
-    
-     const search = req.params.info;
-     //search.replaceAll(" ", "");
-       return( req.params.info.toLowerCase() === country.name.toLowerCase().replace(' ', '') || req.params.info === country.currency || req.params.info.toLowerCase() === country.language.toLowerCase() || req.params.info.toLowerCase() === country.continent.toLowerCase() || req.params.info.toLowerCase() === country.capital.toLowerCase().replace(' ', '') || req.params.info.toLowerCase() === country.currency.toLowerCase() || req.params.info.toLowerCase() === country.hemisphere.toLowerCase().replace(' ', ''))
+       return( search === country.name.toLowerCase().replace(/\s/g, '') || search === country.currency || search === country.language.toLowerCase() || search === country.continent.toLowerCase() || search === country.capital.toLowerCase().replace(/\s/g, '') || search === country.hemisphere.toLowerCase().replace(/\s/g, ''))
        
     })
     res.send(country)
