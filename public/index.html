@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Backend Static</title>
+</head>
+<body>
+    <div class='header'>
+        <Header>
+            <h1 class="header--h1">Country Rest API</h1>
+            <p class="header--p">Welcome to the Country RESTful API Created by: Johnnie Hicks</p>
+            <p class="header--p">This API is very simple to use with a few ENDPOINT to retrieve data</p>
+        </Header>
+
+        <div class="endpoints">
+            <h3 class="endpoints__head">Get all the Countries</h3>
+            <p class="endpoints__head--p1">Example</p>
+            <p class="endpoints__head--p2">http://localhost:7000/world/</p>
+            <p class="endpoints__head--p3">            
+                {
+                    "id": "1",
+                    "name": "Afghanistan",
+                    "language":"Dari",
+                    "hemisphere":"North East",
+                    "continent":"Asia",
+                    "currency":"AFN",
+                    "population": "38,928,346",
+                    "capital": "Kabul"
+                },
+                {
+                    "id": "2",
+                    "name": "Albania",
+                    "language":"Albanian",
+                    "hemisphere":"North East",
+                    "continent":"Europe",
+                    "currency":"ALL",
+                    "population": "2,877,797",
+                    "capital": "Tirana"
+                },
+                {
+                    "id": "3",
+                    "name": "Algeria",
+                    "language":"Arabic",
+                    "hemisphere":"North East",
+                    "continent":"Africa",
+                    "currency":"DZD",
+                    "population": "43,851,044",
+                    "capital": "Algiers"
+                }
+            </p>
+        </div>
+
+        <div class="endpoints">
+            <h3 class="endpoints__head">Get Country by Name</h3>
+            <p class="endpoints__head--p1">Example</p>
+            <p class="endpoints__head--p2">http://localhost:7000/world/USA</p>
+            <p class="endpoints__head--p3">            
+                {
+                    "id": "187",
+                    "name": "United States of America",
+                    "language": "English",
+                    "hemisphere": "North West",
+                    "continent": "North America",
+                    "currency": "USD",
+                    "population": "331,002,651",
+                    "capital": "Washington D.C."
+                    }
+            </p>
+        </div>
+        
+        <div class="endpoints">
+            <h3 class="endpoints__head">Get Country by the main Language</h3>
+            <p class="endpoints__head--p1">Example</p>
+            <p class="endpoints__head--p2">http://localhost:7000/world/Spanish</p>
+            <p class="endpoints__head--p3">            
+                [
+                {
+                "id": "7",
+                "name": "Argentina",
+                "language": "Spanish",
+                "hemisphere": "South West",
+                "continent": "South America",
+                "currency": "ARS",
+                "population": "45,195,774",
+                "capital": "Buenos Aires"
+                },
+                {
+                "id": "21",
+                "name": "Bolivia",
+                "language": "Spanish",
+                "hemisphere": "South West",
+                "continent": "South America",
+                "currency": "BOB",
+                "population": "11,673,021",
+                "capital": "La Paz"
+                },
+                {
+                "id": "24",
+                "name": "Brazil",
+                "language": "Spanish",
+                "hemisphere": "South West",
+                "continent": "South America",
+                "currency": "BRL",
+                "population": "212,559,417",
+                "capital": "Brasilla"
+                }
+                ]
+            </p>
+<!--insert map below-->
+        <div class="endpoints">
+            <h3 class="endpoints__head">Recieve an array of objects by the Countries location(hemisphere)</h3>
+            <p class="endpoints__head--p1">Example</p>
+            <p class="endpoints__head--p2">http://localhost:7000/world/NorthEast</p>
+            <p class="endpoints__head--p3">            
+                [
+                    {
+                    "id": "5",
+                    "name": "Angola",
+                    "language": "Portuguese",
+                    "hemisphere": "South East",
+                    "continent": "Africa",
+                    "currency": "AOA",
+                    "population": "33,866,272",
+                    "capital": "Luanda"
+                    },
+                    {
+                    "id": "9",
+                    "name": "Australia",
+                    "language": "English",
+                    "hemisphere": "South East",
+                    "continent": "Australia",
+                    "currency": "AUD",
+                    "population": "25,499,884",
+                    "capital": "Canberra"
+                    },
+                    {
+                    "id": "23",
+                    "name": "Botswana",
+                    "language": "English",
+                    "hemisphere": "South East",
+                    "continent": "Africa",
+                    "currency": "BWP",
+                    "population": "2,351,627",
+                    "capital": "Gaborone"
+                    }
+                ]
+            </p>
+        </div>
+        
+        <div class="endpoints">
+            <h3 class="endpoints__head">Recieve an array of objects with the same Currency Code</h3>
+                <p class="endpoints__head--p1">Example</p>
+                <p class="endpoints__head--p2">http://localhost:7000/world/USD</p>
+                <p class="endpoints__head--p3">            
+                    [
+                    {
+                    "id": "51",
+                    "name": "Ecuador",
+                    "language": "Spanish",
+                    "hemisphere": "South West",
+                    "continent": "South America",
+                    "currency": "USD",
+                    "population": "17,643,054",
+                    "capital": "Quito"
+                    },
+                    {
+                    "id": "108",
+                    "name": "Marshall Islands",
+                    "language": "Marshallese",
+                    "hemisphere": "North East",
+                    "continent": "Oceania",
+                    "currency": "USD",
+                    "population": "59,190",
+                    "capital": "Majuro"
+                    },
+                    {
+                    "id": "112",
+                    "name": "Micronesia",
+                    "language": "Marshallese",
+                    "hemisphere": "North East",
+                    "continent": "Oceania",
+                    "currency": "USD",
+                    "population": "548,914",
+                    "capital": "Palikir"
+                    }
+                    ]
+            </p>
+        </div>
+    </div>
+</body>
+</html>

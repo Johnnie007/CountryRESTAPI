@@ -2,7 +2,7 @@
     {
     "id": "1",
     "name": "Afghanistan",
-    "mainLanguage":"Dari",
+    "language":"Dari",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"AFN",
@@ -12,7 +12,7 @@
 {
     "id": "2",
     "name": "Albania",
-    "mainLanguage":"Albanian",
+    "language":"Albanian",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"ALL",
@@ -22,7 +22,7 @@
 {
     "id": "3",
     "name": "Algeria",
-    "mainLanguage":"Arabic",
+    "language":"Arabic",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"DZD",
@@ -32,7 +32,7 @@
 {
     "id": "4",
     "name": "Andorra",
-    "mainLanguage":"Catalan",
+    "language":"Catalan",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"EUR",
@@ -42,7 +42,7 @@
 {
     "id": "5",
     "name": "Angola",
-    "mainLanguage":"Portuguese",
+    "language":"Portuguese",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"AOA",
@@ -52,7 +52,7 @@
 {
     "id": "6",
     "name": "Antigua and Barbuda",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"XCD",
@@ -72,7 +72,7 @@
 {
     "id": "8",
     "name": "Armenia",
-    "mainLanguage":"Armenian",
+    "language":"Armenian",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"DRAM",
@@ -82,7 +82,7 @@
 {
     "id": "9",
     "name": "Australia",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"South East",
     "continent":"Australia",
     "currency":"AUD",
@@ -92,7 +92,7 @@
 {
     "id": "10",
     "name": "Austria",
-    "mainLanguage":"German",
+    "language":"German",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"Euro",
@@ -102,7 +102,7 @@
 {
     "id": "11",
     "name": "Azerbaijan",
-    "mainLanguage":"Azerbaijani",
+    "language":"Azerbaijani",
     "hemisphere":"North East",
     "continent":"Europe Asia",
     "currency":"AZN",
@@ -112,7 +112,7 @@
 {
     "id": "12",
     "name": "Bahamas",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"BSD",
@@ -122,7 +122,7 @@
 {
     "id": "13",
     "name": "Bahrain",
-    "mainLanguage":"Arabic",
+    "language":"Arabic",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"BD",
@@ -132,7 +132,7 @@
 {
     "id": "14",
     "name": "Bangladesh",
-    "mainLanguage":"Bengali",
+    "language":"Bengali",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"TK",
@@ -142,7 +142,7 @@
 {
     "id": "15",
     "name": "Barbados",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"Nort West",
     "continent":"North America",
     "currency":"BBD",
@@ -152,7 +152,7 @@
 {
     "id": "16",
     "name": "Belarus",
-    "mainLanguage":"Belarusian",
+    "language":"Belarusian",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"BYR",
@@ -162,7 +162,7 @@
 {
     "id": "17",
     "name": "Belgium",
-    "mainLanguage":"Dutch",
+    "language":"Dutch",
     "hemisphere":"Nort East",
     "continent":"Europe",
     "currency":"Euro",
@@ -192,7 +192,7 @@
 {
     "id": "20",
     "name": "Bhutan",
-    "mainLanguage":"Dzongkha",
+    "language":"Dzongkha",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"BTN",
@@ -212,7 +212,7 @@
 {
     "id": "22",
     "name": "Bosnia and Herzegovina",
-    "mainLanguage":"Bosian",
+    "language":"Bosian",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"BAM",
@@ -222,7 +222,7 @@
 {
     "id": "23",
     "name": "Botswana",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"BWP",
@@ -232,7 +232,7 @@
 {
     "id": "24",
     "name": "Brazil",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"South West",
     "continent":"South America",
     "currency":"BRL",
@@ -252,7 +252,7 @@
 {
     "id": "26",
     "name": "Bulgaria",
-    "mainLanguage":"Bulgarian",
+    "language":"Bulgarian",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"BGN",
@@ -262,7 +262,7 @@
 {
     "id": "27",
     "name": "Burkina Faso",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"XOF",
@@ -272,7 +272,7 @@
 {
     "id": "28",
     "name": "Burndi",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"BIF",
@@ -282,7 +282,7 @@
 {
     "id": "29",
     "name": "Cote d'Lovire",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"XOF",
@@ -292,7 +292,7 @@
 {
     "id": "30",
     "name": "Cabo Verde",
-    "mainLanguage":"Portuguese",
+    "language":"Portuguese",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"CVE",
@@ -302,7 +302,7 @@
 {
     "id": "31",
     "name": "Cambodia",
-    "mainLanguage":"Khmer",
+    "language":"Khmer",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"KHR",
@@ -322,7 +322,7 @@
 {
     "id": "33",
     "name": "Canada",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"CAD",
@@ -332,7 +332,7 @@
 {
     "id": "34",
     "name": "Central African Republic",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"XAF",
@@ -342,7 +342,7 @@
 {
     "id": "35",
     "name": "Chad",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"XAF",
@@ -352,7 +352,7 @@
 {
     "id": "36",
     "name": "Chile",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"South West",
     "continent":"South America",
     "currency":"CLP",
@@ -362,7 +362,7 @@
 {
     "id": "37",
     "name": "China",
-    "mainLanguage":"Mandarin",
+    "language":"Mandarin",
     "hemisphere":"North East",
     "continent":"Asia",
     "currency":"RMB",
@@ -372,7 +372,7 @@
 {
     "id": "38",
     "name": "Colombia",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"South West",
     "continent":"Sout America",
     "currency":"COP",
@@ -382,7 +382,7 @@
 {
     "id": "39",
     "name": "Comoros",
-    "mainLanguage":"Comorian",
+    "language":"Comorian",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"KMF",
@@ -392,7 +392,7 @@
 {
     "id": "40",
     "name": "Congo",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"CDF",
@@ -402,7 +402,7 @@
 {
     "id": "41",
     "name": "Costa Rica",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"CRC",
@@ -412,7 +412,7 @@
 {
     "id": "42",
     "name": "Croatia",
-    "mainLanguage":"Croatian",
+    "language":"Croatian",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"HRK",
@@ -422,7 +422,7 @@
 {
     "id": "43",
     "name": "Cuba",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"CUP",
@@ -432,7 +432,7 @@
 {
     "id": "44",
     "name": "Cyprus",
-    "mainLanguage":"Greek",
+    "language":"Greek",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"EURO",
@@ -442,7 +442,7 @@
 {
     "id": "45",
     "name": "Czechia (Czech Republic)",
-    "mainLanguage":"Czech",
+    "language":"Czech",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"CZK",
@@ -452,7 +452,7 @@
 {
     "id": "46",
     "name": "Democratic Republic of Congo",
-    "mainLanguage":"French",
+    "language":"French",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"CDF",
@@ -462,7 +462,7 @@
 {
     "id": "47",
     "name": "Denmark",
-    "mainLanguage":"Danish",
+    "language":"Danish",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"DKK",
@@ -472,7 +472,7 @@
 {
     "id": "48",
     "name": "Djibouti",
-    "mainLanguage":"Somali",
+    "language":"Somali",
     "hemisphere":"North East",
     "continent":"Africa",
     "currency":"DJF",
@@ -482,7 +482,7 @@
 {
     "id": "49",
     "name": "Dominica",
-    "mainLanguage":"English",
+    "language":"English",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"DOP",
@@ -492,7 +492,7 @@
 {
     "id": "50",
     "name": "Dominica Republic",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"North West",
     "continent":"North America",
     "currency":"DOP",
@@ -502,7 +502,7 @@
 {
     "id": "51",
     "name": "Ecuador",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"South West",
     "continent":"South America",
     "currency":"USD",
@@ -522,7 +522,7 @@
 {
     "id": "53",
     "name": "El Salvador",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"South West",
     "continent":"North America",
     "currency":"SVC",
@@ -532,7 +532,7 @@
 {
     "id": "54",
     "name": "Equatorial Guinea",
-    "mainLanguage":"Spanish",
+    "language":"Spanish",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"GQE",
@@ -552,7 +552,7 @@
 {
     "id": "56",
     "name": "Eswatini",
-    "mainLanguage":"Swazi",
+    "language":"Swazi",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"SZL",
@@ -572,7 +572,7 @@
 {
     "id": "58",
     "name": "Ethiopia",
-    "mainLanguage":"Amharic",
+    "language":"Amharic",
     "hemisphere":"South East",
     "continent":"Africa",
     "currency":"ETB",
@@ -582,7 +582,7 @@
 {
     "id": "59",
     "name": "Fiji",
-    "mainLanguage":"Fijan",
+    "language":"Fijan",
     "hemisphere":"South East",
     "continent":"Oceania",
     "currency":"FJD",
@@ -592,7 +592,7 @@
 {
     "id": "60",
     "name": "Finland",
-    "mainLanguage":"Finnish",
+    "language":"Finnish",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"Euro",
@@ -602,6 +602,7 @@
 {
     "id": "61",
     "name": "France",
+    "language":"French",
     "hemisphere":"North East",
     "continent":"Europe",
     "currency":"Euro",
@@ -624,7 +625,7 @@
     "language":"English",
     "hemisphere":"North East",
     "continent":"Africa",
-    "currency":"",
+    "currency":"GMD",
     "population": "2,416,668",
     "capital": "Banjul"
 },
@@ -971,12 +972,22 @@
 {
     "id": "98",
     "name": "Libya",
-    "language":"",
-    "hemisphere":"",
-    "continent":"",
-    "currency":"",
-    "population": "6,871,292",
-    "capital": ""
+    "language":"Arabic",
+    "hemisphere":"North East",
+    "continent":"Africa",
+    "currency":"LYD",
+    "population": "38,128",
+    "capital": "Tripoli"
+},
+{
+    "id": "99",
+    "name": "Liechtenstein",
+    "language":"Alemanic",
+    "hemisphere":"North East",
+    "continent":"Europe",
+    "currency":"CHF",
+    "population": "38,128",
+    "capital": "Vaduz"
 },
 {
     "id": "99",
@@ -1066,7 +1077,7 @@
     "continent":"Europe",
     "currency":"EURO",
     "population": "441,543",
-    "capital": ""
+    "capital": "Valletta"
 },
 {
     "id": "108",
@@ -1564,7 +1575,7 @@
     "language":"Malay",
     "hemisphere":"North East",
     "continent":"Asia",
-    "currency":"",
+    "currency":"SGD",
     "population": "5,850,342",
     "capital": "Republic of Singapore"
 },
@@ -1574,7 +1585,7 @@
     "language":"Slovak",
     "hemisphere":"North East",
     "continent":"Europe",
-    "currency":"Europe",
+    "currency":"Euro",
     "population": "5,459,642",
     "capital": "Bratislava"
 },
