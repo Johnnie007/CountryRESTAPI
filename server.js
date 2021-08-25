@@ -4,8 +4,9 @@ app.use(express.static('public'))
 const data = require("./data/country");
 
 //Server
-app.listen(7000,() => {
-    console.log(`server is Listening at port ${7000}`)
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.warn(`App listening on http://localhost:${PORT}`);
 });
 
 //Welcome Route
