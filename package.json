@@ -4,7 +4,7 @@
   "description": "Server with countries info",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
 },
   "author": "Johnnie Hicks",
   "license": "ISC",
