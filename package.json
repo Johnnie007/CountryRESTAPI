@@ -4,8 +4,8 @@
   "description": "Server with countries info",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node index.js"
+},
   "author": "Johnnie Hicks",
   "license": "ISC",
   "dependencies": {
